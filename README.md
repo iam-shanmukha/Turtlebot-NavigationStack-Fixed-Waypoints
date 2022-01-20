@@ -7,6 +7,8 @@
 - Used Turtlebot3_simualtions as base package
 - Removed Map, used empty world.
 
+# Video
+- [Click Here](https://photos.app.goo.gl/ewfrG83DRAwi13Yf8) for Simulation Video
 # Usage
 ```
 roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
